@@ -1,0 +1,5 @@
+这里保存的是五折交叉验证的权重文件，在 001/ 下
+
+001:mini + 50epochs + 5Fold + bert_fixed
+
+
