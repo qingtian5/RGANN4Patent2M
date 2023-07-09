@@ -1,15 +1,14 @@
-由于Patent2M数据集比较大，我们将会提供数据集的下载链接，将下载完的`train.csv`文件和`test.csv`文件放此处即可，`train.csv`有1.98G大小，`test.csv`有2M大小。
+As the Patent2M data set is relatively large, we will provide the download link of the data set, just put the downloaded 'train.csv' file and 'test.csv' file here, 'train.csv' has a size of 1.98G, 'test.csv' has a size of 2M.
+
+### Google Cloud Drive download link
+
+`test.csv`: click here from Google cloud disk to download https://drive.google.com/file/d/1HfdVuwL6x8uo5bnTxXV6wGwPaQg8egor/view?usp=sharing
+`train.csv`: click here from Google cloud disk to download https://drive.google.com/file/d/1j0hhDl1TmXAMYwBWPHtD2Aft9GynMNsn/view?usp=sharing
 
 
-### 谷歌云盘下载链接
-
-`test.csv`: 点击此处从谷歌云盘下载 https://drive.google.com/file/d/1HfdVuwL6x8uo5bnTxXV6wGwPaQg8egor/view?usp=sharing
-`train.csv`: 点击此处从谷歌云盘下载 https://drive.google.com/file/d/1j0hhDl1TmXAMYwBWPHtD2Aft9GynMNsn/view?usp=sharing
-
-
-### 百度网盘下载链接
-链接：https://pan.baidu.com/s/1TVzWfEAqqO8wSfGIxuCfXw 
-提取码：gcr4
+### Baidu web disk download link
+Link：https://pan.baidu.com/s/1TVzWfEAqqO8wSfGIxuCfXw 
+Extraction code：gcr4
 
 
 
