@@ -1,9 +1,8 @@
 # RGANN4Patent2M
 
-### 复现我们的`baseline`结果
-需要运行 ``MainPatentBert.ipynb` 文件
+### Reproducing our `baseline` results
+You need to run the `MainPatentBert.ipynb` file
 
 
 ### TODO:
-复现所有模型并整理代码
-
+Clean up and release all code
